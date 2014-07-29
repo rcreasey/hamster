@@ -5,9 +5,9 @@
   "keywords": ["hamster", "hamster eve", "eve online api", "eve api", "eve online", "eve"],
   "homepage": "https://github.com/kuja/hamster",
   "author": {
-    "name": "Matt Harris",
-    "email": "kuja@byteflux.net",
-    "url": "https://github.com/kuja"
+    "name": "Ryan Creasey",
+    "email": "ryan@kaneda.net",
+    "url": "https://github.com/rcreasey/hamster"
   },
   "main": "./lib/hamster.js",
   "dependencies": {
