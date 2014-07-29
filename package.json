@@ -2,13 +2,16 @@
   "name": "hamster",
   "version": "0.0.1",
   "description": "EVE Online API client for Node.js",
-  "keywords": ["hamster", "hamster eve", "eve online api", "eve api", "eve online", "eve"],
+  "keywords": [
+    "hamster",
+    "hamster eve",
+    "eve online api",
+    "eve api",
+    "eve online",
+    "eve"
+  ],
   "homepage": "https://github.com/kuja/hamster",
-  "author": {
-    "name": "Ryan Creasey",
-    "email": "ryan@kaneda.net",
-    "url": "https://github.com/rcreasey/hamster"
-  },
+  "author": "Ryan Creasey <ryan@kaneda.net> (https://github.com/rcreasey/hamster)",
   "main": "./lib/hamster.js",
   "dependencies": {
     "sax": "0.4.x"
@@ -18,5 +21,16 @@
   },
   "scripts": {
     "test": "mocha -u qunit --recursive"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rcreasey/hamster.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rcreasey/hamster/issues"
   }
 }
